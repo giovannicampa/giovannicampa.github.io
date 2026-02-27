@@ -5,9 +5,19 @@ var addressPoints = [
     -122.4075201
   ],
   [
+    "Inline Slab Surface Inspection System at ArcelorMittal Eisenh\u00fcttenstadt<br />Surface Inspection Summit (SIS) 2025; Aachen, Germany",
+    50.776351,
+    6.083862
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
+  ],
+  [
+    "KI gest\u00e4tzte Stahlerzeugung<br />Brandenburger KI-Tag 2024; Frankfurt (Oder), Germany",
+    52.3412273,
+    14.549452
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
