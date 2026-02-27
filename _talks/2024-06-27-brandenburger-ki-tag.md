@@ -1,5 +1,5 @@
 ---
-title: "KI gestätzte Stahlerzeugung"
+title: "KI gestützte Stahlerzeugung"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-06-27-brandenburger-ki-tag
