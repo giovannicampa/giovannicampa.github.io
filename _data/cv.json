@@ -1,152 +1,192 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Giovanni Campa",
+    "label": "Technical Lead and Deep Learning Engineer",
+    "website": "https://giovannicampa.github.io",
+    "summary": "Technical lead and deep learning engineer specializing in vision-based ML, Python backends, and industrial applications.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Berlin"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "giovannicampa",
+        "url": "https://github.com/giovannicampa"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Smart Steel Technologies",
+      "position": "Technical Lead",
+      "website": "",
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "summary": "Led projects and coordinated development of new tools across teams.",
+      "highlights": [
+        "Bridged communication across teams to align delivery and priorities.",
+        "Presented at conferences and handled on-site client meetings."
+      ]
+    },
+    {
+      "company": "Smart Steel Technologies",
+      "position": "Deep Learning Engineer",
+      "website": "",
+      "startDate": "2022-04",
+      "endDate": "Present",
+      "summary": "Built vision-based ML models and applications.",
+      "highlights": [
+        "Built Python backends with Kafka, SQL, and gRPC integrations.",
+        "Improved CI/CD for containerized systems and developed monitoring dashboards with Grafana."
+      ]
+    },
+    {
+      "company": "Bertrandt Ingenieurburo GmbH",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2021-03",
+      "endDate": "2022-03",
+      "summary": "Designed multi-object tracking algorithms for reference data generation using sensor fusion and Kalman filters.",
+      "highlights": []
+    },
+    {
+      "company": "Daimler AG",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2020-05",
+      "endDate": "2020-09",
+      "summary": "Implemented reinforcement learning for robotic arm and mobile base path planning using ROS and Python.",
+      "highlights": []
+    },
+    {
+      "company": "Audi AG",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2019-04",
+      "endDate": "2019-09",
+      "summary": "Developed a machine learning model to predict customer ratings of braking behavior.",
+      "highlights": []
+    },
+    {
+      "company": "Friedrich Geldbach GmbH",
+      "position": "Intern and Engineer",
+      "website": "",
+      "startDate": "2015-04",
+      "endDate": "2016-02",
+      "summary": "Created CAD models of dies for hot forging applications and optimized maintenance planning through numerical analysis.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "RWTH Aachen University",
+      "area": "MSc in Mechanical Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2017-04",
+      "endDate": "2020-05",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Specialisation in robotics and control",
+        "Thesis: Real Time Object State Estimation for Environment Perception in Autonomous Driving (Kalman filter, LIDAR, ROS, C++)"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Politecnico di Milano",
+      "area": "BSc in Mechanical Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2012-09",
+      "endDate": "2016-09",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [
+        "Specialisation in production systems engineering"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "C++"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "CVAT",
+        "FiftyOne"
+      ]
+    },
+    {
+      "name": "MLOps and Infrastructure",
+      "keywords": [
+        "Docker",
+        "GitLab CI/CD",
+        "Kafka",
+        "SQL",
+        "gRPC",
+        "Grafana"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git",
+        "Bash",
+        "ROS",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Online Courses",
+      "keywords": [
+        "DeepLearning.AI TensorFlow Developer Specialization (Coursera)",
+        "DeepLearning.AI TensorFlow: Advanced Techniques Specialization (Coursera)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
+  "publications": [],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Inline Slab Surface Inspection System at ArcelorMittal Eisenhüttenstadt",
+      "event": "Surface Inspection Summit (SIS) 2025",
+      "date": "2025-11-20",
+      "location": "Aachen, Germany",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "KI gestätzte Stahlerzeugung",
+      "event": "Brandenburger KI-Tag 2024",
+      "date": "2024-06-27",
+      "location": "Frankfurt (Oder), Germany",
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
