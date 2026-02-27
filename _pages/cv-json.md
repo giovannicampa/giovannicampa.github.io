@@ -10,7 +10,3 @@ redirect_from:
 {% include base_path %}
 
 {% include cv-template.html %}
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/resume.tex" class="btn btn--primary">Download CV (LaTeX)</a>
-</div>
