@@ -15,7 +15,7 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "KI gest\u00e4tzte Stahlerzeugung<br />Brandenburger KI-Tag 2024; Frankfurt (Oder), Germany",
+    "KI gest\u00fctzte Stahlerzeugung<br />Brandenburger KI-Tag 2024; Frankfurt (Oder), Germany",
     52.3412273,
     14.549452
   ],
