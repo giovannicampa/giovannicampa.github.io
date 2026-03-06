@@ -88,11 +88,7 @@
       "studyType": "",
       "startDate": "2017-04",
       "endDate": "2020-05",
-      "gpa": null,
-      "courses": [
-        "Specialisation in robotics and control",
-        "Thesis: Real Time Object State Estimation for Environment Perception in Autonomous Driving (Kalman filter, LIDAR, ROS, C++)"
-      ]
+      "gpa": null
     },
     {
       "institution": "Politecnico di Milano",
@@ -100,10 +96,7 @@
       "studyType": "",
       "startDate": "2012-09",
       "endDate": "2016-09",
-      "gpa": null,
-      "courses": [
-        "Specialisation in production systems engineering"
-      ]
+      "gpa": null
     }
   ],
   "skills": [

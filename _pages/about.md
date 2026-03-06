@@ -15,5 +15,5 @@ What I work on:
 - Robotics, perception, and real-time tracking systems
 
 Background:
-- MSc in Mechanical Engineering, RWTH Aachen University (specialization in robotics and control)
-- BSc in Mechanical Engineering, Politecnico di Milano (production systems engineering)
+- MSc in Mechanical Engineering, RWTH Aachen University
+- BSc in Mechanical Engineering, Politecnico di Milano
