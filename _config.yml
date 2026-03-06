@@ -23,7 +23,7 @@ repository               : "giovannicampa/giovannicampa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Giovanni Campa"
   bio              : "Technical lead and deep learning engineer focused on vision-based ML, Python backends, and industrial applications."
   location         : "Berlin, Germany"
