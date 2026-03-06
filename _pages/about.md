@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Giovanni Campa, a technical lead and deep learning engineer at Smart Steel Technologies in Berlin. I build vision-based ML systems and Python backends for industrial applications, with experience in robotics, sensor fusion, and MLOps.
+Hi, I'm Giovanni Campa, a technical lead and deep learning engineer at Smart Steel Technologies in Berlin. I build vision-based ML systems for industrial applications, with experience in robotics and sensor fusion.
 
 What I work on:
 - Computer vision and applied machine learning for manufacturing

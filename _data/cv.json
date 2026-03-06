@@ -3,7 +3,7 @@
     "name": "Giovanni Campa",
     "label": "Technical Lead and Deep Learning Engineer",
     "website": "https://giovannicampa.github.io",
-    "summary": "Technical lead and deep learning engineer specializing in vision-based ML, Python backends, and industrial applications.",
+    "summary": "Technical lead and deep learning engineer specializing in vision-based ML for industrial applications.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -26,11 +26,8 @@
       "website": "",
       "startDate": "2024-10",
       "endDate": "Present",
-      "summary": "Led projects and coordinated development of new tools across teams.",
-      "highlights": [
-        "Bridged communication across teams to align delivery and priorities.",
-        "Presented at conferences and handled on-site client meetings."
-      ]
+      "summary": "Leading the development of software projects for steel industry",
+      "highlights": []
     },
     {
       "company": "Smart Steel Technologies",
@@ -38,11 +35,8 @@
       "website": "",
       "startDate": "2022-04",
       "endDate": "Present",
-      "summary": "Built vision-based ML models and applications.",
-      "highlights": [
-        "Built Python backends with Kafka, SQL, and gRPC integrations.",
-        "Improved CI/CD for containerized systems and developed monitoring dashboards with Grafana."
-      ]
+      "summary": "Computer vision and machine learning applications for the steel industry",
+      "highlights": []
     },
     {
       "company": "Bertrandt Ingenieurburo GmbH",
@@ -50,7 +44,7 @@
       "website": "",
       "startDate": "2021-03",
       "endDate": "2022-03",
-      "summary": "Designed multi-object tracking algorithms for reference data generation using sensor fusion and Kalman filters.",
+      "summary": "Sensor fusion algorithms for reference data generation in the field of autonomous driving",
       "highlights": []
     },
     {
@@ -59,7 +53,7 @@
       "website": "",
       "startDate": "2020-05",
       "endDate": "2020-09",
-      "summary": "Implemented reinforcement learning for robotic arm and mobile base path planning using ROS and Python.",
+      "summary": "Reinforcement learning for robotic path planning in the context of manufacturing plants",
       "highlights": []
     },
     {
@@ -68,7 +62,7 @@
       "website": "",
       "startDate": "2019-04",
       "endDate": "2019-09",
-      "summary": "Developed a machine learning model to predict customer ratings of braking behavior.",
+      "summary": "Machine learning applications for the prediction of customer ratings about braking behavior",
       "highlights": []
     },
     {
@@ -77,7 +71,7 @@
       "website": "",
       "startDate": "2015-04",
       "endDate": "2016-02",
-      "summary": "Created CAD models of dies for hot forging applications and optimized maintenance planning through numerical analysis.",
+      "summary": "CAD design of forging dies",
       "highlights": []
     }
   ],
@@ -101,7 +95,7 @@
   ],
   "skills": [
     {
-      "name": "Programming",
+      "name": "Programming Languages",
       "keywords": [
         "Python",
         "MATLAB",
@@ -120,11 +114,12 @@
       ]
     },
     {
-      "name": "MLOps and Infrastructure",
+      "name": "Infrastructure",
       "keywords": [
         "Docker",
-        "GitLab CI/CD",
-        "Kafka",
+        "GitLab",
+        "CI-CD",
+        "Kafka queues",
         "SQL",
         "gRPC",
         "Grafana"
@@ -139,13 +134,6 @@
         "Linux"
       ]
     },
-    {
-      "name": "Online Courses",
-      "keywords": [
-        "DeepLearning.AI TensorFlow Developer Specialization (Coursera)",
-        "DeepLearning.AI TensorFlow: Advanced Techniques Specialization (Coursera)"
-      ]
-    }
   ],
   "languages": [
     {
